@@ -1,0 +1,7 @@
+results/
+
+__pycache__/
+
+*.log
+results/checkpoint-*/model.safetensors
+results/checkpoint-*/optimizer.pt
